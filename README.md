@@ -142,53 +142,53 @@ from Spotify_Youtube```
   
   1. Average Play duration
      
-      ![Average Play duration](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/fcbea32f-b9cf-44e8-89bb-933d1f83babf)
+      ![Average Play duration](https://github.com/user-attachments/assets/7441731c-c647-4f12-9dee-bd3313ebbd4d)
 
   3. licensed And Unliensed track
      
-       ![licensed unliensed track](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/50a4eb3c-d163-42b5-b870-5d44638351da)
+       ![licensed unliensed track](https://github.com/user-attachments/assets/b9deaa79-20ea-4cca-b7aa-6ac198d197fb)
      
   4.  Top 5 artist on Spotify
 
      
-      ![top 5 artist on Spotify](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/7960c919-0190-497f-bf60-11de29c6be7f)
+      ![top 5 artist on Spotify](https://github.com/user-attachments/assets/e54d79f8-f8e4-4ea3-8cd6-cff79563c3e0)
 
   5. Top 5 artist on youtube
 
-     ![top 5 artist on youtube](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/068c7ddd-a92d-45c7-8d87-acdd4d67d6fd)
+     ![top 5 artist on youtube](https://github.com/user-attachments/assets/ccc035bd-3dbd-4bd2-836e-91e87fc596da)
 
   6. Top 5 channel on youtube
 
-       ![top 5 channel on youtube](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/42d5930d-82c9-4d9a-8eab-60aae06a38de)
+       ![top 5 channel on youtube](https://github.com/user-attachments/assets/16ae71e1-9e96-490e-982b-898c3183e65b)
 
   7. Top 5 commented songs
 
-      ![top 5 commented songs](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/ee468fe2-c1e0-4fbf-ad88-fb8e332ecf11)
+      ![top 5 commented songs](https://github.com/user-attachments/assets/99f8e8a9-81b1-4a08-9799-56caa8dd73e1)
 
   8. Top 5 liked Songs
-     
-      ![top 5 liked](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/9bd64818-f2bc-4ec1-9de9-ba41e850d6ce)
+
+      ![top 5 liked](https://github.com/user-attachments/assets/148d34f0-1a86-461a-b5ea-5f294ab565ab)
 
   9. Total Artist
 
-        ![Total Artist](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/dff8658f-b336-4ae8-97ab-f0fed5edd424)
+        ![Total Artist](https://github.com/user-attachments/assets/4c91d6a1-da44-43fc-98e0-6fcd4d0f67e6)
 
   
   10. Total play duration
-    
-      ![total play duration](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/936917d9-53ee-45d6-8ba8-7b2a5a9ee47a)
+
+      ![total play duration](https://github.com/user-attachments/assets/4904835a-0ded-41b8-b7d7-5529c820d17a)
 
   11. Total Tracks
 
-      ![Total Tracks](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/1e0c1a42-c66a-43a3-813b-2b2752c9ff41)
+      ![Total Tracks](https://github.com/user-attachments/assets/d47d18f7-90c0-4f12-8747-ae72e86fb7b5)
 
   12. Track of each Album
-    
-      ![Track of each Album](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/e9ca176b-726e-4fb6-9be6-53fff42c430c)
+
+      ![Track of each Album](https://github.com/user-attachments/assets/ce89b3aa-379e-4e8b-9df9-a5e51d66408c)
 
   13. Final Dashboard
 
-      ![Final Dashboard](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/e04bd05c-15ec-49a2-a118-90fe4436ae04)
+      ![Final Dashboard](https://github.com/user-attachments/assets/a0257cb5-8f1a-4e15-aaa4-0c82414f2d8a)
 
 
 
