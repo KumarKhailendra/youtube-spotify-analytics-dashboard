@@ -198,7 +198,7 @@ from Spotify_Youtube```
 
 # Power BI Dashboard
 
-  ![dashboard](https://github.com/KumarKhailendra/YouTubeAndSpotify_DataAnalysis/assets/63099276/38992ded-104d-478f-b4e8-4bdba9456ff0)
+  ![dashboard](https://github.com/user-attachments/assets/818ef42f-1ba7-4c59-88da-49bde0f12e89)
 
   Note : It's dynamic dashboard .
 
